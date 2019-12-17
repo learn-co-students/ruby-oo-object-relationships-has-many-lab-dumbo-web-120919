@@ -44,7 +44,7 @@ all instances of every song that's been created in an array. To access that
 array, the song class will also need a class method that returns the class
 variable holding those instances.
 
-![Author and Posts](https://curriculum-content.s3.amazonaws.com/module-1/ruby-oo-relationships/has-many-lab/Image_139_CodeObjectsRelations%28C%29.png)
+![Author and Posts](https://curriculum-content.s3.amazonaws.com/module-1/ruby-oo-relationships/has-many-lab/Image_139_CodeObjectsRelations%28C%29.png) 
 
 How can an author have many posts and a post belong to an author? An individual
 post will need to hold a reference to the author it belongs to, meaning it will
